@@ -37,3 +37,4 @@ The code is divided into two main parts:
 ## **Results**
 The project successfully maps the joystick's Y-axis movement to a numerical range of 0-99 and displays the corresponding values on the LCD screen. The display updates in real-time as the joystick is moved.
 
+![Output](Output.png)
